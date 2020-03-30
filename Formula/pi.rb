@@ -1,8 +1,8 @@
 class Pi < Formula
-    version '1.1.0'
+    version '1.2.0'
     homepage 'https://github.com/a-know/pi'
-    url "https://github.com/a-know/pi/releases/download/v1.1.0/pi_v1.1.0_darwin_amd64.zip"
-    sha256 '29dc34fddf6d65387899363df9575c1eed9110359d950d6512bb100008defe30'
+    url "https://github.com/a-know/pi/releases/download/v1.2.0/pi_v1.2.0_darwin_amd64.zip"
+    sha256 'd683156da3ea4aae9aad8ee4db1f87e46f1700a9236c1cd8c08c559a08d35f69'
     head 'https://github.com/a-know/pi.git'
   
     def install
